@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=VENKATACHALAM%20K&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20GENERATIVE%20AI&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,100:10B981&height=220&section=header&text=VENKATACHALAM%20K&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20GENERATIVE%20AI&descAlignY=58&descSize=16" width="100%"/>
 
 </div>
 
@@ -15,16 +15,18 @@
 
 ### 💻 AI/ML • Software Development • Generative AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Building+AI-powered+projects;Exploring+Generative+AI;Learning+Software+Development;Java+%7C+Python+%7C+JavaScript;Code+%7C+Learn+%7C+Build+%7C+Repeat" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Building+AI-powered+projects;Exploring+Generative+AI;Learning+Software+Development;Java+%7C+Python+%7C+JavaScript;Code+%7C+Learn+%7C+Build+%7C+Repeat" />
 
 <br><br>
 
 <a href="https://github.com/Venkatachalam17">
-<img src="https://img.shields.io/github/followers/Venkatachalam17?style=for-the-badge&logo=github&label=Followers" />
+<img src="https://img.shields.io/github/followers/Venkatachalam17?style=for-the-badge&logo=github&label=Followers&color=10B981" />
 </a>
 
 <a href="https://github.com/Venkatachalam17?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-10-2563EB?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Repositories-10-10B981?style=for-the-badge&logo=github" />
 </a>
 
 </div>
@@ -58,7 +60,7 @@
 <div align="center">
 
 | 🤖 AI & ML | 💻 Software | 🌐 Development |
-|:---:|:---:|:---:|
+| :----------------: | :---------: | :-------------: |
 | Machine Learning | Java | Full Stack |
 | Generative AI | Python | Web Development |
 | Prompt Engineering | JavaScript | APIs |
@@ -94,42 +96,13 @@
 </div>
 
 
-<!-- ======================= FEATURED PROJECTS ======================= -->
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Venkatachalam17/Beristales">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Venkatachalam17&repo=Beristales&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Venkatachalam17/Gamified_Learning">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Venkatachalam17&repo=Gamified_Learning&theme=tokyonight&hide_border=true" />
-</a>
-
-<br>
-
-<a href="https://github.com/Venkatachalam17/textdistance">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Venkatachalam17&repo=textdistance&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Venkatachalam17/DataStructures">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Venkatachalam17&repo=DataStructures&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-
 <!-- ======================= PROJECT DETAILS ======================= -->
 
 ---
 
 # 💡 My Projects
 
-## ⌨️ Beristales — Intelligent Typing Tutor
+## ⌨️ Beristales - Intelligent Typing Tutor
 
 An AI-powered typing tutor designed to analyze typing behavior and
 help users improve their typing performance.
@@ -140,16 +113,16 @@ help users improve their typing performance.
 
 ### ✨ Features
 
-- ⌨️ Typing performance analysis
-- 📊 Detailed statistics
-- 🧠 Intelligent feedback
-- 📈 Progress tracking
-- 🤖 AI-assisted analysis
+* ⌨️ Typing performance analysis
+* 📊 Detailed statistics
+* 🧠 Intelligent feedback
+* 📈 Progress tracking
+* 🤖 AI-assisted analysis
 
 
 ---
 
-## 🧠 EUNOMIA
+## 🧠 Project EUNOMIA
 
 **Explainable Unbiased Navigation of On-screen Marks for Interactive Appeals**
 
@@ -189,21 +162,6 @@ A project focused on text distance and string comparison techniques.
 ### 🔧 Technologies
 
 `Rust` `Algorithms` `String Processing`
-
-
-<!-- ======================= GITHUB STATS ======================= -->
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Venkatachalam17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatachalam17&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-
-</div>
 
 
 <!-- ======================= CONTRIBUTION STREAK ======================= -->
@@ -266,7 +224,7 @@ A project focused on text distance and string comparison techniques.
 <div align="center">
 
 | 📚 Area | 🎯 Focus |
-|:---|:---|
+| :---------------------- | :---------------------- |
 | 🧩 Data Structures | Problem Solving |
 | 🤖 AI / ML | Machine Learning |
 | ✨ Generative AI | AI Applications |
@@ -296,6 +254,7 @@ hackathons and hands-on learning.
 
 <!-- ======================= CODING PHILOSOPHY ======================= -->
 
+
 ---
 
 # 💻 Coding Philosophy
@@ -308,3 +267,39 @@ Build something.
 Break something.
 Fix something.
 Repeat.
+```
+
+
+<!-- ======================= CONNECT WITH ME ======================= -->
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:likevenkat6@gmail.com">
+<img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/venkatachalam-k/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Venkatachalam17">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/Venkatachalam17/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🚀 Let's Build Something Awesome Together!
+
+</div>
