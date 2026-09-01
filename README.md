@@ -38,7 +38,7 @@
 
 🎓 Computer Science Engineering Student
 
-💻 Interested in Software Development
+💻 Interested in Software Development & AI/ML.
 
 🤖 Exploring Artificial Intelligence, Machine Learning & Generative AI
 
@@ -47,6 +47,9 @@
 🚀 I enjoy turning ideas into working projects
 
 🏆 Hackathon enthusiast
+
+
+<!-- ======================= INTERESTS ======================= -->
 
 ---
 
@@ -91,7 +94,7 @@
 </div>
 
 
-<!-- ======================= PROJECTS ======================= -->
+<!-- ======================= FEATURED PROJECTS ======================= -->
 
 ---
 
@@ -124,7 +127,7 @@
 
 ---
 
-# 💡 Projects
+# 💡 My Projects
 
 ## ⌨️ Beristales — Intelligent Typing Tutor
 
@@ -203,7 +206,7 @@ A project focused on text distance and string comparison techniques.
 </div>
 
 
-<!-- ======================= STREAK ======================= -->
+<!-- ======================= CONTRIBUTION STREAK ======================= -->
 
 ---
 
@@ -212,6 +215,31 @@ A project focused on text distance and string comparison techniques.
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Venkatachalam17&theme=tokyonight&hide_border=true" />
+
+</div>
+
+
+<!-- ======================= LEETCODE ======================= -->
+
+---
+
+# 🧩 LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Venkatachalam17/">
+
+<img src="https://leetcard.jacoblin.cool/Venkatachalam17?theme=dark&font=Karma&ext=heatmap" />
+
+</a>
+
+<br><br>
+
+<a href="https://leetcode.com/u/Venkatachalam17/">
+
+<img src="https://img.shields.io/badge/LeetCode-Venkatachalam17-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+
+</a>
 
 </div>
 
@@ -229,7 +257,7 @@ A project focused on text distance and string comparison techniques.
 </div>
 
 
-<!-- ======================= LEARNING ======================= -->
+<!-- ======================= CURRENTLY LEARNING ======================= -->
 
 ---
 
@@ -266,7 +294,7 @@ problem-solving and development skills through projects,
 hackathons and hands-on learning.
 
 
-<!-- ======================= CONTRIBUTION ======================= -->
+<!-- ======================= CODING PHILOSOPHY ======================= -->
 
 ---
 
