@@ -215,6 +215,17 @@ A project focused on text distance and string comparison techniques.
 </div>
 
 
+---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Venkatachalam17/Venkatachalam17/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+
 <!-- ======================= CURRENTLY LEARNING ======================= -->
 
 ---
