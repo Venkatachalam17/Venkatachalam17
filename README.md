@@ -1,304 +1,305 @@
-<!-- ======================= BANNER ======================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,100:10B981&height=220&section=header&text=VENKATACHALAM%20K&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20GENERATIVE%20AI&descAlignY=58&descSize=16" width="100%"/>
-
-</div>
-
-
-<!-- ======================= INTRO ======================= -->
-
-<div align="center">
-
-# 👋 Hey, I'm Venkatachalam K
-
-### 💻 AI/ML • Software Development • Generative AI
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:059669,100:22C55E&height=210&section=header&text=Venkatachalam%20K&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%2FML%20%7C%20Software%20Developer%20%7C%20Learning%20by%20Building&descAlignY=58&descSize=17" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Building+AI-powered+projects;Exploring+Generative+AI;Learning+Software+Development;Java+%7C+Python+%7C+JavaScript;Code+%7C+Learn+%7C+Build+%7C+Repeat" />
+<a href="https://github.com/Venkatachalam17">
+<img src="https://img.shields.io/badge/GitHub-Venkatachalam17-059669?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/venkatachalam-k-581468358/">
+<img src="https://img.shields.io/badge/LinkedIn-Venkatachalam%20K-10B981?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/Venkatachalam17/">
+<img src="https://img.shields.io/badge/LeetCode-Venkatachalam17-22C55E?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 <br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1100&color=22C55E&center=true&vCenter=true&width=750&lines=Code+%7C+Learn+%7C+Build+%7C+Repeat;Building+AI-powered+software;Turning+ideas+into+working+systems;Learning+by+building+real+projects;Exploring+AI%2FML+%26+software+development;Building+%7C+Breaking+%7C+Improving;Solving+problems+with+code;Exploring+emerging+technologies;From+concepts+to+working+products;Always+building+something+new" alt="Typing SVG"/>
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm **Venkatachalam K**, a Computer Science Engineering undergraduate at **Sri Ramakrishna Engineering College**, exploring **AI/ML and software development**.
+
+I enjoy learning by building practical projects, experimenting with new technologies, and turning ideas into working software.
+
+> **Build it. Break it. Understand it. Improve it.**
+
+---
+
+## 🚀 What I'm Working On
+
+* 🤖 Exploring **AI & Machine Learning**
+* 💻 Building practical **software applications**
+* 🧠 Strengthening **Data Structures & Algorithms**
+* ⚡ Exploring **automation and emerging technologies**
+* 🔧 Learning through **projects, hackathons and experimentation**
+
+---
+
+## 📌 Featured Projects
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌦️ Mausam
+
+**Personalized Weather Experience**
+
+A personalized homepage concept for the **Mausam** mobile application, designed to adapt weather information based on different user needs and usage patterns.
+
+**Tech**
+
+`Flutter` `AI/ML` `Personalization` `Weather Data`
+
+<br>
 
 <a href="https://github.com/Venkatachalam17">
-<img src="https://img.shields.io/github/followers/Venkatachalam17?style=for-the-badge&logo=github&label=Followers&color=10B981" />
+<img src="https://img.shields.io/badge/View%20Repository-059669?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Venkatachalam17?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-10-10B981?style=for-the-badge&logo=github" />
+</td>
+
+<td width="50%" valign="top">
+
+### 📈 Fin4x
+
+**Financial Analytics Platform**
+
+A financial analysis application focused on studying stock and asset trends through data-driven analysis, indicators and performance metrics.
+
+**Tech**
+
+`Python` `Data Analysis` `Financial Analytics`
+
+<br>
+
+<a href="https://github.com/Venkatachalam17">
+<img src="https://img.shields.io/badge/View%20Repository-10B981?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</td>
 
+</tr>
 
-<!-- ======================= ABOUT ======================= -->
+<tr>
 
----
+<td width="50%" valign="top">
 
-# 🧠 About Me
+### 🦀 TextDistance
 
-🎓 Computer Science Engineering Student
+**TextDistance-RS**
 
-💻 Interested in Software Development & AI/ML.
+A Rust implementation of text-distance algorithms developed as part of the **Code Resurrection Hackathon**.
 
-🤖 Exploring Artificial Intelligence, Machine Learning & Generative AI
+Focused on understanding algorithms, text processing and implementation from the ground up.
 
-🧩 Currently improving my Data Structures & Algorithms
+**Tech**
 
-🚀 I enjoy turning ideas into working projects
+`Rust` `Algorithms` `Text Processing`
 
-🏆 Hackathon enthusiast
+<br>
 
-
-<!-- ======================= INTERESTS ======================= -->
-
----
-
-# ⚡ What I'm Into
-
-<div align="center">
-
-| 🤖 AI & ML | 💻 Software | 🌐 Development |
-| :----------------: | :---------: | :-------------: |
-| Machine Learning | Java | Full Stack |
-| Generative AI | Python | Web Development |
-| Prompt Engineering | JavaScript | APIs |
-| Computer Vision | DSA | Databases |
-
-</div>
-
-
-<!-- ======================= TECH STACK ======================= -->
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### 👨‍💻 Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,rust" />
-
-<br><br>
-
-### 🗄️ Database & Backend
-
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,flask" />
-
-<br><br>
-
-### 🔧 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
-
-<!-- ======================= PROJECT DETAILS ======================= -->
-
----
-
-# 💡 My Projects
-
-## ⌨️ Beristales - Intelligent Typing Tutor
-
-An AI-powered typing tutor designed to analyze typing behavior and
-help users improve their typing performance.
-
-### 🔧 Tech Stack
-
-`Python` `Flask` `JavaScript` `PostgreSQL` `Gemini AI`
-
-### ✨ Features
-
-* ⌨️ Typing performance analysis
-* 📊 Detailed statistics
-* 🧠 Intelligent feedback
-* 📈 Progress tracking
-* 🤖 AI-assisted analysis
-
-
----
-
-## 🧠 Project EUNOMIA
-
-**Explainable Unbiased Navigation of On-screen Marks for Interactive Appeals**
-
-An explainable AI-assisted digital on-screen marking system focused on
-evidence-based evaluation and human-in-the-loop grading.
-
-### 🔧 Focus Areas
-
-`Computer Vision` `Artificial Intelligence` `Explainable AI`
-
-`Human-in-the-Loop` `Digital On-Screen Marking`
-
-
----
-
-## 🎮 Gamified Learning Platform
-
-A gamified learning platform designed to make learning more
-interactive through challenges, quizzes and rewards.
-
-### 🔧 Technologies
-
-`JavaScript` `HTML` `CSS` `Web Development` `Gamification`
-
-### 🎯 Goal
-
-Make learning more engaging through interactive activities,
-challenges and game-based learning.
-
-
----
-
-## 📏 TextDistance
-
-A project focused on text distance and string comparison techniques.
-
-### 🔧 Technologies
-
-`Rust` `Algorithms` `String Processing`
-
-
-<!-- ======================= CONTRIBUTION STREAK ======================= -->
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Venkatachalam17&theme=tokyonight&hide_border=true" />
-
-</div>
-
-
-<!-- ======================= LEETCODE ======================= -->
-
----
-
-# 🧩 LeetCode
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Venkatachalam17/">
-
-<img src="https://leetcard.jacoblin.cool/Venkatachalam17?theme=dark&font=Karma&ext=heatmap" />
-
+<a href="https://github.com/Venkatachalam17/textdistance">
+<img src="https://img.shields.io/badge/View%20Repository-16A34A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+</td>
 
-<a href="https://leetcode.com/u/Venkatachalam17/">
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/LeetCode-Venkatachalam17-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+### ⌨️ Beristales
 
+**AI-Based Typing Tutor**
+
+A typing tutor that analyses user behaviour and mistakes to create a more interactive learning experience.
+
+**Tech**
+
+`Python` `Flask` `JavaScript` `HTML/CSS` `SQLite`
+
+<br>
+
+<a href="https://github.com/Venkatachalam17/Beristales-AI-based-Typing-Tutor">
+<img src="https://img.shields.io/badge/View%20Repository-22C55E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</td>
 
+</tr>
 
-<!-- ======================= ACTIVITY ======================= -->
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎮 Gamified Learning
+
+**Cognify**
+
+A gamified STEM learning platform using interactive challenges, quizzes and rewards to make learning more engaging.
+
+**Tech**
+
+`JavaScript` `Web Development` `Gamification`
+
+<br>
+
+<a href="https://github.com/Venkatachalam17/Gamified_Learning">
+<img src="https://img.shields.io/badge/View%20Repository-059669?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔄 SkillSwap
+
+**Skill Sharing Platform**
+
+A platform concept focused on allowing people to share niche skills and learn from one another beyond traditional course-based learning.
+
+**Tech**
+
+`Python` `Application Development`
+
+<br>
+
+<a href="https://github.com/Venkatachalam17/skillswap">
+<img src="https://img.shields.io/badge/View%20Repository-10B981?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 📈 GitHub Activity
+## 🛠️ Technologies I Work With
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Venkatachalam17&theme=tokyonight" width="95%" />
+### Programming
+
+![Python](https://img.shields.io/badge/Python-059669?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-10B981?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-16A34A?style=for-the-badge\&logo=javascript\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-22C55E?style=for-the-badge\&logo=rust\&logoColor=white)
+
+### Web & Development
+
+![HTML5](https://img.shields.io/badge/HTML5-059669?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-10B981?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-16A34A?style=flat-square\&logo=javascript\&logoColor=white)
+
+### AI / Data
+
+![Python](https://img.shields.io/badge/Python-22C55E?style=flat-square\&logo=python\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-059669?style=flat-square\&logo=jupyter\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-10B981?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-16A34A?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-22C55E?style=flat-square\&logo=visualstudiocode\&logoColor=white)
 
 </div>
 
-<!-- ======================= CURRENTLY LEARNING ======================= -->
+---
+
+## 🏆 Beyond the Code
+
+I enjoy learning outside the classroom through competitions, hackathons, technical events and project-based challenges.
+
+### 💡 Hackathons & Competitions
+
+* 🏆 **Smart India Hackathon**
+* 🧠 **Code Resurrection Hackathon**
+* 🚀 **Quantexa Hackathons**
+* 🥇 **Project-based Technical Competitions**
+* 📚 **Continuous DSA & Coding Practice**
 
 ---
 
-# 🌱 Currently Learning
-
-<div align="center">
-
-| 📚 Area | 🎯 Focus |
-| :---------------------- | :---------------------- |
-| 🧩 Data Structures | Problem Solving |
-| 🤖 AI / ML | Machine Learning |
-| ✨ Generative AI | AI Applications |
-| 🌐 Web Development | Full Stack Development |
-| 💻 Software Engineering | Application Development |
-| 🧠 Prompt Engineering | AI Interaction |
-
-</div>
-
-
-<!-- ======================= GOAL ======================= -->
-
----
-
-# 🎯 My Goal
-
-<div align="center">
-
-### "Build useful software, keep learning, and turn ideas into reality."
-
-</div>
-
-I'm continuously exploring new technologies and improving my
-problem-solving and development skills through projects,
-hackathons and hands-on learning.
-
-
-<!-- ======================= CODING PHILOSOPHY ======================= -->
-
-
----
-
-# 💻 Coding Philosophy
+## 🎯 Current Focus
 
 <div align="center">
 
 ```text
-Learn something.
-Build something.
-Break something.
-Fix something.
-Repeat.
+AI / ML
+   +
+Software Development
+   +
+Data Structures & Algorithms
+   +
+Emerging Technologies
 ```
-
-
-<!-- ======================= CONNECT WITH ME ======================= -->
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="mailto:likevenkat6@gmail.com">
-<img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/venkatachalam-k/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/Venkatachalam17">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/Venkatachalam17/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
 
 </div>
 
-<br>
+I'm focused on strengthening my fundamentals while building projects that help me move from **learning concepts → applying them → solving real problems**.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 🚀 Let's Build Something Awesome Together!
+<img src="https://github-readme-stats.vercel.app/api?username=Venkatachalam17&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=10B981&icon_color=22C55E&text_color=FFFFFF" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatachalam17&layout=compact&hide_border=true&theme=transparent&title_color=10B981&text_color=FFFFFF" height="170"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Venkatachalam17&hide_border=true&theme=transparent&ring=22C55E&fire=10B981&currStreakLabel=22C55E" height="170"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Venkatachalam17&theme=github_dark" width="95%"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in:
+
+**Building projects · Learning new technologies · Hackathons · Open-source · Collaborating on ideas**
+
+<div align="center">
+
+<a href="https://github.com/Venkatachalam17">
+<img src="https://img.shields.io/badge/GitHub-Visit%20Profile-059669?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/venkatachalam-k-581468358/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-10B981?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Venkatachalam17/">
+<img src="https://img.shields.io/badge/LeetCode-Practice-22C55E?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<br><br>
+
+### `code → learn → build → repeat`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:059669,100:064E3B&height=110&section=footer" width="100%"/>
 
 </div>
